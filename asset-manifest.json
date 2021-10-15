@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5d1db81.chunk.css",
-    "main.js": "/static/js/main.6956f766.chunk.js",
-    "main.js.map": "/static/js/main.6956f766.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bf1db8e5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bf1db8e5.js.map",
-    "static/css/2.c98a0a23.chunk.css": "/static/css/2.c98a0a23.chunk.css",
-    "static/js/2.3a60259b.chunk.js": "/static/js/2.3a60259b.chunk.js",
-    "static/js/2.3a60259b.chunk.js.map": "/static/js/2.3a60259b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c98a0a23.chunk.css.map": "/static/css/2.c98a0a23.chunk.css.map",
-    "static/css/main.f5d1db81.chunk.css.map": "/static/css/main.f5d1db81.chunk.css.map",
-    "static/js/2.3a60259b.chunk.js.LICENSE.txt": "/static/js/2.3a60259b.chunk.js.LICENSE.txt",
-    "static/media/all.css": "/static/media/fa-solid-900.eeccf4f6.woff"
+    "main.css": "/buzzelgame/static/css/main.f5d1db81.chunk.css",
+    "main.js": "/buzzelgame/static/js/main.6956f766.chunk.js",
+    "main.js.map": "/buzzelgame/static/js/main.6956f766.chunk.js.map",
+    "runtime-main.js": "/buzzelgame/static/js/runtime-main.8bce1ca5.js",
+    "runtime-main.js.map": "/buzzelgame/static/js/runtime-main.8bce1ca5.js.map",
+    "static/css/2.154cd1ea.chunk.css": "/buzzelgame/static/css/2.154cd1ea.chunk.css",
+    "static/js/2.3a60259b.chunk.js": "/buzzelgame/static/js/2.3a60259b.chunk.js",
+    "static/js/2.3a60259b.chunk.js.map": "/buzzelgame/static/js/2.3a60259b.chunk.js.map",
+    "index.html": "/buzzelgame/index.html",
+    "static/css/2.154cd1ea.chunk.css.map": "/buzzelgame/static/css/2.154cd1ea.chunk.css.map",
+    "static/css/main.f5d1db81.chunk.css.map": "/buzzelgame/static/css/main.f5d1db81.chunk.css.map",
+    "static/js/2.3a60259b.chunk.js.LICENSE.txt": "/buzzelgame/static/js/2.3a60259b.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/buzzelgame/static/media/fa-solid-900.eeccf4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf1db8e5.js",
-    "static/css/2.c98a0a23.chunk.css",
+    "static/js/runtime-main.8bce1ca5.js",
+    "static/css/2.154cd1ea.chunk.css",
     "static/js/2.3a60259b.chunk.js",
     "static/css/main.f5d1db81.chunk.css",
     "static/js/main.6956f766.chunk.js"
